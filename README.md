@@ -1,2 +1,2 @@
-# Practice_Projects
-Content Contains Projects that have been used during the Project Practice
+🥉# Practice_Projects
+🌳Content Contains Projects that have been used during the Project Practice...
